@@ -64,7 +64,6 @@
     line-height: 1.7em;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     white-space: nowrap;
-    overflow: auto;
 }
 
 .song__verse:hover {
